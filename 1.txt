@@ -1,3 +1,10 @@
 i am learning git.
-alter 1
+alter1
 alter2
+
+alter4
+
+alter6
+
+alter7
+
