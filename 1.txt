@@ -1,11 +1,17 @@
 i am learning git.
 alter1
+
+alter2
+
 alter2
 
 alter4
+
+alter5
 
 alter6
 
 alter7
 
-alter9
+alter8
+
