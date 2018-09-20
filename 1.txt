@@ -1,1 +1,3 @@
 i am learning git.
+alter 1
+alter2
